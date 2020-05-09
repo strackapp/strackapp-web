@@ -38,6 +38,7 @@ values:
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
   - heading: Hello
-    text: Hello world. This is an extra value.
+    text: Hello world. This is an extra value. But I can't see the value item on the
+      live website?
     imageUrl: img/blog-chemex.jpg
 ---
